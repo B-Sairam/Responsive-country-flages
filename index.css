@@ -1,0 +1,24 @@
+.body{
+    margin: 20px;
+
+}
+
+.img{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.body h3{
+    padding: 5px 0;
+}
+.body p{
+    line-height: 10px;
+    font-weight: 600;
+}
+span{
+    color: rgb(107, 105, 105);
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
